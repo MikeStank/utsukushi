@@ -7,18 +7,15 @@ body {
 }
 
 
+
 p {
   line-height: 1.75;
 }
-.container {
-  width: 900px;
-  /* padding-left: 200px; */
 
-}
 
-/* .text-faded {
+.text-faded {
   color: black;
-} */
+}
 
 .site-heading {
   margin-top: 5rem;
