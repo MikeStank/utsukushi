@@ -28,6 +28,11 @@ p {
 
 }
 
+.max-height {
+  height: 100px;
+  padding-bottom: 50px
+}
+
 .site-heading .site-heading-upper {
   display: block;
   font-size: 2rem;
@@ -153,15 +158,15 @@ p {
 
 .cta .cta-inner {
   position: relative;
-  padding: 3rem;
+  padding: 3px;
+  padding-top: 25px;
   margin: 0.5rem;
   background-color: rgba(255, 255, 255, 0.85);
 
 }
 
 .cta .cta-inner:before {
-  border-radius: 0.5rem;
-  content: '';
+
   position: absolute;
   top: -0.5rem;
   bottom: -0.5rem;
@@ -171,29 +176,29 @@ p {
 
 }
 
-
+/*
 .list-hours {
   font-size: 0.9rem;
-}
+} */
 
-.list-hours .list-hours-item {
+/* .list-hours .list-hours-item {
   border-bottom: 1px solid rgba(230, 167, 86, 0.5);
   padding-bottom: .25rem;
   margin-bottom: 1rem;
   font-style: italic;
-}
+} */
 
-.list-hours .list-hours-item.today {
+/* .list-hours .list-hours-item.today {
   font-weight: bold;
   color: #e6a756;
-}
+} */
 
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .list-hours {
     width: 50%;
     font-size: 1.1rem;
   }
-}
+} */
 
 
 .address strong {
