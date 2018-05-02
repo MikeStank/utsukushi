@@ -28,7 +28,9 @@ export default App;
 
 
 
-// Below is the boilerplate Reacte App that is pulled from Github
+// ***** Below is the boilerplate Reacte App that is pulled from Github *****
+
+
 // class App extends Component {
 //   render() {
 //     return (
