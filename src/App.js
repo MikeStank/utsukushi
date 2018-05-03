@@ -23,6 +23,32 @@ const App = () =>
     </div>
   </Router>
 
+  removeProduct = id => {
+    // Filter this.state.products for products with an id not equal to the id being removed
+    const products = this.state.products.filter(product => product.id !== id);
+    // Set this.state.friends equal to the new products array
+    this.setState({ products });
+  };
+
+  // Map over this.state.friends and render a FriendCard component for each friend object
+  render() {
+    return (
+      <Wrapper>
+        <Title>Your Makeup Drawer</Title>
+        {this.state.products.map(product => (
+          <ProductCard
+            removeProduct={this.removeFriend}
+            id={product.id}
+            key={product.id}
+            name={product.name}
+            image={product.image}
+            location={friend.location}
+          />
+        ))}
+      </Wrapper>
+    );
+  }
+
 export default App;
 
 
