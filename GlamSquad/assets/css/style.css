@@ -30,12 +30,12 @@ p {
 
 .max-height {
   height: 100px;
-  padding-bottom: 50px
+  padding-bottom: 50px;
 }
 
 .site-heading .site-heading-upper {
   display: block;
-  font-size: 2rem;
+  font-size: 50px;
   font-weight: 800;
   color: black;
   padding-left: 10px;
@@ -151,7 +151,7 @@ p {
 
 .cta {
   padding-top: 5rem;
-  padding-bottom: 5rem;
+  padding-bottom: 10rem;
   background-color: rgb(245,207,213);
 
 }
