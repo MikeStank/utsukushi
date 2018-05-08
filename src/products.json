@@ -1,0 +1,572 @@
+Light Skin
+[
+  {
+    "id": 1,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/olso.jpg",
+    "colors": "Olso"
+  }
+]
+
+[
+  {
+    "id": 2,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/yukon",
+    "colors": "Yukon"
+  }
+]
+
+[
+  {
+    "id": 3,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/montblanc",
+    "colors": "Mont Blanc"
+  }
+]
+
+[
+  {
+    "id": 4,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/gobi",
+    "colors": "Gobi"
+  }
+]
+Medium Light
+[
+  {
+    "id": 5,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/shahel",
+    "colors": "Shahel"
+  }
+]
+
+[
+  {
+    "id": 6,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/punjab",
+    "colors": "Punjab"
+  }
+]
+
+[
+  {
+    "id": 7,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/fiji",
+    "colors": "Fiji"
+  }
+]
+
+[
+  {
+    "id": 8,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/salzburg",
+    "colors": "Salzburg"
+  }
+]
+Medium
+[
+  {
+    "id": 9,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/vanuatu",
+    "colors": "Vanuatu"
+  }
+]
+
+[
+  {
+    "id": 10,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/aruba",
+    "colors": "Aruba"
+  }
+]
+
+[
+  {
+    "id": 11,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/moorea",
+    "colors": "Moorea"
+  }
+]
+
+[
+  {
+    "id": 12,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/valencia",
+    "colors": "Valencia"
+  }
+]
+Dark
+[
+  {
+    "id": 13,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/marquises",
+    "colors": "Marquises"
+  }
+]
+
+[
+  {
+    "id": 14,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/manaus",
+    "colors": "Manaus"
+  }
+]
+
+[
+  {
+    "id": 15,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/iguacu",
+    "colors": "Iguacu"
+  }
+]
+
+[
+  {
+    "id": 16,
+    "name": "Nars Natural Radiant Longwear Foundation",
+    "image": "src/images/mali",
+    "colors": "Mali"
+  }
+]
+Blue
+[
+  {
+    "id": 17,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/omen",
+    "colors": "Omen"
+  }
+]
+
+[
+  {
+    "id": 18,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/bordello",
+    "colors": "Bordello",
+  }
+]
+
+[
+  {
+    "id": 19,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/despiration",
+    "colors": "Despiration",
+  }
+]
+
+[
+  {
+    "id": 20,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/spike",
+    "colors": "Spike",
+  }
+]
+Brown
+[
+  {
+    "id": 21,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/hijack",
+    "colors": "Hijack",
+  }
+]
+
+[
+  {
+    "id": 22,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/chaos",
+    "colors": "Chaos",
+  }
+]
+[
+  {
+    "id": 23,
+    "name": "Bobby Brown Luxe Eye Shadow",
+    "image": "src/images/interstellar",
+    "colors": "interstellar",
+  }
+]
+[
+  {
+    "id": 24,
+    "name": "Anastasia Beverly Hills Eye Shadow",
+    "image": "src/images/brassy gold",
+    "colors": "Brassy Gold",
+  }
+]
+Green
+[
+  {
+    "id": 25,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/last call",
+    "colors": "Last Call",
+  }
+]
+[
+  {
+    "id": 26,
+    "name": "Bobby Brown Shimmer Wash Eye Shadow",
+    "image": "src/images/stone",
+    "colors": "stone",
+  }
+]
+[
+  {
+    "id": 27,
+    "name": "Bobby Brown Luxe Eye Shadow",
+    "image": "src/images/interstellar",
+    "colors": "interstellar",
+  }
+]
+[
+  {
+    "id": 28,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/vice",
+    "colors": "Vice",
+  }
+]
+Hazel Eyes
+[
+  {
+    "id": 29,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/rockstar",
+    "colors": "Rockstar",
+  }
+]
+
+[
+  {
+    "id": 30,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/busted",
+    "colors": "Busted",
+  }
+]
+
+[
+  {
+    "id": 31,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/blitz",
+    "colors": "Blitz",
+  }
+]
+
+[
+  {
+    "id": 32,
+    "name": "Uban Decay Eye Shadow",
+    "image": "src/images/mildew",
+    "colors": "mildew",
+  }
+]
+Blush for light SKIN
+
+[
+  {
+    "id": 33,
+    "name": "Bobby Brown Blush",
+    "image": "src/images/prettypink",
+    "colors": "Pretty Pink",
+  }
+]
+
+[
+  {
+    "id": 34,
+    "name": "Bobby Brown Blush",
+    "image": "src/images/peony",
+    "colors": "Peony",
+  }
+]
+
+[
+  {
+    "id": 35,
+    "name": "Bobby Brown Blush",
+    "image": "src/images/pretty coral",
+    "colors": "Pretty Coral",
+  }
+]
+
+[
+  {
+    "id": 36,
+    "name": "Bobby Brown Blush",
+    "image": "src/images/pale pink",
+    "colors": "Pale Pink",
+  }
+]
+Light Medium Blush
+[
+  {
+    "id": 37,
+    "name": "Bobby Brown Blush",
+    "image": "src/images/sand pink",
+    "colors": "Sand Pink",
+  }
+]
+
+[
+  {
+    "id": 38,
+    "name": "Urban Decay Blush",
+    "image": "src/images/indecent",
+    "colors": "Indecent",
+  }
+]
+
+[
+  {
+    "id": 39,
+    "name": "Nars Blush",
+    "image": "src/images/impassioned",
+    "colors": "Impassioned",
+  }
+]
+
+[
+  {
+    "id": 40,
+    "name": "Nars Blush",
+    "image": "src/images/orgasm",
+    "colors": "Orgasm",
+  }
+]
+
+Medium
+[
+  {
+    "id": 41,
+    "name": "Urban Decay Blush",
+    "image": "src/images/fetish",
+    "colors": "Fetish",
+  }
+]
+
+[
+  {
+    "id": 42,
+    "name": "Nars Blush",
+    "image": "src/images/gina",
+    "colors": "Gina",
+  }
+]
+
+[
+  {
+    "id": 43,
+    "name": "Nars Blush",
+    "image": "src/images/madly",
+    "colors": "Madly",
+  }
+]
+
+[
+  {
+    "id": 44,
+    "name": "Nars Blush",
+    "image": "src/images/angelika",
+    "colors": "Angelika",
+  }
+]
+Dark
+
+[
+  {
+    "id": 45,
+    "name": "Nars Blush",
+    "image": "src/images/seduction",
+    "colors": "Seduction",
+  }
+]
+[
+  {
+    "id": 46,
+    "name": "Nars Blush",
+    "image": "src/images/exhibit a",
+    "colors": "Exhibit A",
+  }
+]
+[
+  {
+    "id": 47,
+    "name": "Nars Blush",
+    "image": "src/images/taos",
+    "colors": "Taos",
+  }
+]
+[
+  {
+    "id": 48,
+    "name": "Uban Decay Blush",
+    "image": "src/images/quiver",
+    "colors": "Quiver",
+  }
+]
+
+Lipstick for light SKIN
+[
+  {
+    "id": 49,
+    "name": "Bobby Brown Lip Color",
+    "image": "src/images/salmon",
+    "colors": "Salmon",
+  }
+]
+
+[
+  {
+    "id": 50,
+    "name": "Nars Lip Color",
+    "image": "src/images/audacious",
+    "colors": "Audacious",
+  }
+]
+
+[
+  {
+    "id": 51,
+    "name": "Urban Decay Lip Color",
+    "image": "src/images/double team",
+    "colors": "Double Team",
+  }
+]
+
+[
+  {
+    "id": 52,
+    "name": "Nars Lip Color",
+    "image": "src/images/claudia",
+    "colors": "Claudia",
+  }
+]
+lipstick for light to med SKIN
+
+[
+  {
+    "id": 53,
+    "name": "Nars Lip Color",
+    "image": "src/images/jane",
+    "colors": "Jane",
+  }
+]
+
+[
+  {
+    "id": 54,
+    "name": "Urban Decay Lip Color",
+    "image": "src/images/double team",
+    "colors": "Double Team",
+  }
+]
+
+[
+  {
+    "id": 55,
+    "name": "Nars Lip Color",
+    "image": "src/images/pink orchid",
+    "colors": "Pink Orchid",
+  }
+]
+
+[
+  {
+    "id": 56,
+    "name": "Urban Decay Lip Color",
+    "image": "src/images/zz",
+    "colors": "ZZ",
+  }
+]
+Medium lipstick
+[
+  {
+    "id": 57,
+    "name": "Bobby Brown Lip Color",
+    "image": "src/images/burt red",
+    "colors": "Burnt Red",
+  }
+]
+
+[
+  {
+    "id": 58,
+    "name": "Nars Lip Color",
+    "image": "src/images/Fanny",
+    "colors": "Fanny",
+  }
+]
+
+[
+  {
+    "id": 59,
+    "name": "Nars Lip Color",
+    "image": "src/images/lana",
+    "colors": "lana",
+  }
+]
+[
+  {
+    "id": 60,
+    "name": "Nars Lip Color",
+    "image": "src/images/barbara",
+    "colors": "Barbara",
+  }
+]
+
+Dark Skin Tone Lipstick
+
+[
+  {
+    "id": 61,
+    "name": "Urban Decay Lip Color",
+    "image": "src/images/love drunk",
+    "colors": "Love Drunk",
+  }
+]
+
+[
+  {
+    "id": 62,
+    "name": "Nars Lip Color",
+    "image": "src/images/deborah",
+    "colors": "Deborah",
+  }
+]
+
+[
+  {
+    "id": 63,
+    "name": "Urban Decay Lip Color",
+    "image": "src/images/heartache",
+    "colors": "Heartache",
+  }
+]
+{
+  "id": 64,
+  "name": "Urban Decay Lip Color",
+  "image": "src/images/crush",
+  "colors": "Crush",
+}
+]
